@@ -1,0 +1,28 @@
+h1{
+    color: blue;
+    font-family:sans-serif;
+}
+
+ol{
+    list-style-type: circle;
+}
+
+ul{
+    list-style-image: url('images/pointer-icon/pointer-icon.png');
+}
+
+#menu_bar a{
+    font-family :'Franklin Gothic Medium', 'Arial Narrow';
+    text-decoration: none;
+    background-color: aquamarine;
+    padding: 5px;
+}
+
+#menu_bar a:hover{
+    background-color:orange;
+    color: aquamarine;
+}
+
+.Avanger img{
+    width: 100%;
+}
